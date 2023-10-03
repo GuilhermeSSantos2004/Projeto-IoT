@@ -12,11 +12,11 @@ const int maxSequenceLength = 10;
 char sequence[maxSequenceLength];
 int sequenceIndex = 0;
 
-char wifiSsid[] = "homepage";
-char wifiPass[] = "carromoto";
+char wifiSsid[] = "Nome da rede";
+char wifiPass[] = "Senha";
 char serverAddress[] = "https://api.tago.io/data";
 char contentHeader[] = "application/json";
-char tokenHeader[] = "4c24d4bb-630b-4a00-a31f-08fe97defdbe";
+char tokenHeader[] = "Insirar o seu token";
 
 
 
